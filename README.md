@@ -1,0 +1,1 @@
+"This is a simple RESTful API built with the Flask framework. The API provides basic functionality for managing a list of names, including retrieving the list, searching for a specific name, and adding a new name. It's a lightweight project designed to demonstrate basic API development using Flask."
